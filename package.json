@@ -1,0 +1,16 @@
+{
+  "name": "prioritime-slack-application",
+  "version": "1.0.0",
+  "description": "a message prioritization app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^3.22.0",
+    "chrono-node": "^2.7.7"
+  }
+}
