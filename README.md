@@ -1,5 +1,8 @@
 # PrioriTime Slack App
 
+![PrioriTime](https://github.com/user-attachments/assets/0dead324-e199-41f3-89d7-36f12e62f371)
+
+
 PrioriTime is a Slack app designed to help teams prioritize their messages effectively. It allows users to tag messages as urgent, semi-urgent, or not urgent, helping to manage communication priorities within a workspace.
 
 ## Features
